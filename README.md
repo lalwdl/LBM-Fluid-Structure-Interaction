@@ -1,2 +1,3 @@
 # LBM-SimpleCase
-Couette flow and Poiseuille flow
+LBM-IMB
+Immersed Boundary Method
