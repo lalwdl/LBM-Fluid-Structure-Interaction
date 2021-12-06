@@ -1,3 +1,3 @@
 # LBM-SimpleCase
-LBM-IMB
+LBM-IBM
 Immersed Boundary Method
