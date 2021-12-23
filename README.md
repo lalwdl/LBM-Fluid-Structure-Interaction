@@ -1,7 +1,6 @@
 LBM Fluid Structure Interaction
 1.Simple case:couette flow and Poiseuille flow
 2.cylinder flow
-3.DKT of two particles（LBM-IMB-DEM)
 LBM（Lattice Boltzmann method）
 IMB（Immersed moving boundary）：Noble D R, Torczynski J R. A Lattice-Boltzmann Method for Partially Saturated Computational Cells[J]. International Journal of Modern Physics C, 1998, 09(08): 1189-1201.
 DEM（Discrete element method）：Feng Z G, Michaelides E E. The immersed boundary-lattice Boltzmann method for solving fluid-particles interaction problems[J]. Journal of Computational Physics, 2004, 195(2): 602-628.
